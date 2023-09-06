@@ -10,7 +10,7 @@
 
 
 ##### Feel free to join my discord!
-[![(https://discord.com/api/guilds/1140359404156366918/widget.json)](https://discord.gg/kJvREaJDfd)
+[![(https://discord.com/api/guilds/1140359404156366918/widget.json)](https://discord.gg/kJvREaJDfd)]
 
 ### Stats
 
