@@ -10,7 +10,7 @@
 
 
 ##### Feel free to join my discord!
-[![](https://img.shields.io/discord/1010915072694046794?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/kJvREaJDfd)
+[![](https://img.shields.io/discord/1140359404156366918?label=discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white)](https://discord.gg/kJvREaJDfd)
 
 ### Stats
 
