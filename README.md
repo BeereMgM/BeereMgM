@@ -1,5 +1,5 @@
 ## Hey, I'm Beere 👋
-- I'm currently learn:
+- I'm currently learning:
     - Python
     - C
     - C++
