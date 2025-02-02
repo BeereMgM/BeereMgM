@@ -6,7 +6,7 @@
     - C#
     - HTML, CSS ,JS
 
-- Currently working on [Ceap Fortnite Tournament | Lobby Bot](https://discord.gg/ceap]
+- Currently working on [Ceap Fortnite Tournament | Lobby Bot](https://discord.gg/ceap)
 
 
 ##### Feel free to join my discord!
