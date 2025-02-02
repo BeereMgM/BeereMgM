@@ -1,12 +1,12 @@
 ## Hey, I'm Beere 👋
-- I'm currently learning:
+- I'm working with:
     - Python
     - C
     - C++
     - C#
     - HTML, CSS ,JS
 
-- Currently working on [ezWrite](https://github.com/BeereMgM/ezWrite)
+- Currently working on [Ceap Fortnite Tournament | Lobby Bot](https://discord.gg/ceap]
 
 
 ##### Feel free to join my discord!
